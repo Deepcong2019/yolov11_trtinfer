@@ -1,0 +1,10 @@
+
+*.log
+
+.idea/
+
+.DS_Store
+
+3rdParty/
+.vs/
+x64/
